@@ -27,11 +27,11 @@ def title_case(sentence):
 	if not isinstance(sentence, str):
 	   raise TypeError('Input must be type string')
 	
-	if len(s)==0:
+	if len(sentence)==0:
 	   raise IndexError('Cannot apply title function to empty string.')
 	
 	sentence.lower()
 	small=sentence.split()
 	small = [word.capitalize() for word in small]
 
-	return join(small)
+	return ' '.join(small)
