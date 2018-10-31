@@ -7,6 +7,8 @@ sermacs-workshop
 
 sermacs workshop
 
+This is the readme.
+
 ### Copyright
 
 Copyright (c) 2018, Randi Beil
