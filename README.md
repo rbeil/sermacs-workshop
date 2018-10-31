@@ -1,9 +1,9 @@
 sermacs-workshop
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/sermacs-workshop.png)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/sermacs-workshop)
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/REPLACE_WITH_APPVEYOR_LINK/branch/master?svg=true)](https://ci.appveyor.com/project/REPLACE_WITH_OWNER_ACCOUNT/sermacs-workshop/branch/master)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs-workshop/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs-workshop/branch/master)
+[![Travis Build Status](https://travis-ci.org/rbeil/sermacs-workshop.svg?branch=master)](https://travis-ci.org/rbeil/sermacs-workshop)
+[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/m5rfuoh5ajryw1n8?svg=true)](https://ci.appveyor.com/project/rbeil/sermacs-workshop/branch/master)
+[![codecov](https://codecov.io/gh/rbeil1/sermacs-workshop/branch/master/graph/badge.svg)](https://codecov.io/gh/rbeil/sermacs-workshop/branch/master)
 
 SERMACS Practice Repository
 
